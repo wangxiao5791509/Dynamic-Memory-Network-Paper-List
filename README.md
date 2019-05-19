@@ -1,6 +1,7 @@
 # Dynamic-Memory-Network-Paper-List
 ![The paper list of dynamic memory network](https://github.com/wangxiao5791509/Dynamic-Memory-Network-Paper-List/blob/master/Screenshot%20from%202019-05-19%2018:12:47.png) 
 
+Graves, Alex, Greg Wayne, and Ivo Danihelka. "Neural turing machines." arXiv preprint arXiv:1410.5401 (2014). [Paper](https://arxiv.org/abs/1410.5401), [TF Code](https://github.com/carpedm20/NTM-tensorflow), [PyTorch Code](https://github.com/loudinthecloud/pytorch-ntm)
 
 Graves, Alex, et al. "Hybrid computing using a neural network with dynamic external memory." Nature 538.7626 (2016): 471. 
 [Paper](https://campus.swarma.org/public/ueditor/php/upload/file/20170609/1497019302822809.pdf), [TF Code](https://github.com/deepmind/dnc), [Blog](https://deepmind.com/research/dnc/) 
