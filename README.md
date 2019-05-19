@@ -5,8 +5,17 @@
 Graves, Alex, et al. "Hybrid computing using a neural network with dynamic external memory." Nature 538.7626 (2016): 471. 
 [Paper](https://campus.swarma.org/public/ueditor/php/upload/file/20170609/1497019302822809.pdf), [TF Code](https://github.com/deepmind/dnc), [Blog](https://deepmind.com/research/dnc/) 
 
+Weston, Jason, Sumit Chopra, and Antoine Bordes. "Memory networks." arXiv preprint arXiv:1410.3916 (2014). [Paper](https://arxiv.org/pdf/1410.3916), [Code]()
+
 
 ## Applications on Natural Language Processing: 
+Sukhbaatar, Sainbayar, Jason Weston, and Rob Fergus. "End-to-end memory networks." Advances in neural information processing systems. 2015. [Paper](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf), [PyTorch Code](https://github.com/jojonki/MemoryNetworks) 
+
+Kumar, Ankit, et al. "Ask me anything: Dynamic memory networks for natural language processing." International conference on machine learning. 2016. [Paper](http://www.jmlr.org/proceedings/papers/v48/kumar16.pdf), [TF Code](https://github.com/DongjunLee/dmn-tensorflow), [PyTorch Code](https://github.com/jhyuklee/dmn-pytorch) 
+
+Bordes, Antoine, et al. "Large-scale simple question answering with memory networks." arXiv preprint arXiv:1506.02075 (2015). [Paper](https://arxiv.org/abs/1506.02075) 
+
+Tran, Ke, Arianna Bisazza, and Christof Monz. "Recurrent memory networks for language modeling." arXiv preprint arXiv:1601.01272 (2016). [Paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1036.pdf) 
 
 
 ## Applications on Computer Vision: 
@@ -27,7 +36,9 @@ Le, Hung, Truyen Tran, and Svetha Venkatesh. "Dual control memory augmented neur
 
 Pei, Wenjie, et al. "Memory-Attended Recurrent Network for Video Captioning." arXiv preprint arXiv:1905.03966 (2019).[Paper](https://arxiv.org/pdf/1905.03966), Code 
 
-Fan, Chenyou, et al. "Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering." CVPR-2019, [Paper](https://arxiv.org/pdf/1904.04357), [Code](https://github.com/fanchenyou/HME-VideoQA/tree/master/msvd-qa)
+Fan, Chenyou, et al. "Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering." CVPR-2019, [Paper](https://arxiv.org/pdf/1904.04357), [Code](https://github.com/fanchenyou/HME-VideoQA/tree/master/msvd-qa) 
+
+Xiong, Caiming, Stephen Merity, and Richard Socher. "Dynamic memory networks for visual and textual question answering." International conference on machine learning. 2016. [Paper](http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf), [PyTorch Code](https://github.com/dandelin/Dynamic-memory-networks-plus-Pytorch)
 
 
 
