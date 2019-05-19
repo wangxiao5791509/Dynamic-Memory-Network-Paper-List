@@ -14,10 +14,47 @@ Yang, Tianyu, and Antoni B. Chan. "Learning dynamic memory networks for object t
 
 Liu, Boyu, et al. "Mavot: Memory-augmented video object tracking." arXiv preprint arXiv:1711.09414 (2017). [Paper](https://arxiv.org/pdf/1711.09414), Code
 
-Fan, Chenyou, et al. "Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering." CVPR-2019, [Paper](https://arxiv.org/pdf/1904.04357), [Code](https://github.com/fanchenyou/HME-VideoQA/tree/master/msvd-qa)
+Yuan, Yuan, Dong Wang, and Qi Wang. "Memory-Augmented Temporal Dynamic Learning for Action Recognition." arXiv preprint arXiv:1904.13080 (2019).[Paper](https://arxiv.org/pdf/1904.13080.pdf)
 
 
 
 ## Applications on Cross-domain: 
-Ma, Chao, et al. "Visual question answering with memory-augmented networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_Visual_Question_Answering_CVPR_2018_paper.pdf), [Code]()
+Ma, Chao, et al. "Visual question answering with memory-augmented networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_Visual_Question_Answering_CVPR_2018_paper.pdf), [Code]
+
+Li, Guohao, Hang Su, and Wenwu Zhu. "Incorporating external knowledge to answer open-domain visual questions with dynamic memory networks." arXiv preprint arXiv:1712.00733 (2017). [Paper](https://arxiv.org/pdf/1712.00733), Code
+
+Le, Hung, Truyen Tran, and Svetha Venkatesh. "Dual control memory augmented neural networks for treatment recommendations." Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2018. [Paper](https://arxiv.org/pdf/1802.03689), Code 
+
+Pei, Wenjie, et al. "Memory-Attended Recurrent Network for Video Captioning." arXiv preprint arXiv:1905.03966 (2019).[Paper](https://arxiv.org/pdf/1905.03966), Code 
+
+Fan, Chenyou, et al. "Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering." CVPR-2019, [Paper](https://arxiv.org/pdf/1904.04357), [Code](https://github.com/fanchenyou/HME-VideoQA/tree/master/msvd-qa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
