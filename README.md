@@ -1,5 +1,5 @@
 # Dynamic-Memory-Network-Paper-List
-![The paper list of dynamic memory network](https://github.com/wangxiao5791509/Dynamic-Memory-Network-Paper-List/blob/master/Screenshot%20from%202019-05-19%2018:12:47.png) 
+![The paper list of dynamic memory network](https://github.com/wangxiao5791509/Dynamic-Memory-Network-Paper-List/blob/master/Screenshot%20from%202019-05-19%2018:12:47.png) This figure is adopted from [paper](https://campus.swarma.org/public/ueditor/php/upload/file/20170609/1497019302822809.pdf)
 
 Graves, Alex, Greg Wayne, and Ivo Danihelka. "Neural turing machines." arXiv preprint arXiv:1410.5401 (2014). [Paper](https://arxiv.org/abs/1410.5401), [TF Code](https://github.com/carpedm20/NTM-tensorflow), [PyTorch Code](https://github.com/loudinthecloud/pytorch-ntm)
 
