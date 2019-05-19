@@ -36,6 +36,10 @@ Lee, Sangho, et al. "A Memory Network Approach for Story-Based Temporal Summariz
 
 Cai, Qi, et al. "Memory matching networks for one-shot image recognition." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Memory_Matching_Networks_CVPR_2018_paper.pdf) 
 
+Zhu, Linchao, and Yi Yang. "Compound Memory Networks for Few-shot Video Classification." Proceedings of the European Conference on Computer Vision (ECCV). 2018. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Linchao_Zhu_Compound_Memory_Networks_ECCV_2018_paper.pdf) 
+
+Xiao, Fanyi, and Yong Jae Lee. "Video object detection with an aligned spatial-temporal memory." Proceedings of the European Conference on Computer Vision (ECCV). 2018. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fanyi_Xiao_Object_Detection_with_ECCV_2018_paper.pdf), [Project](http://fanyix.cs.ucdavis.edu/project/stmn/project.html), [Code](https://github.com/fanyix/STMN)
+
 
 
 
