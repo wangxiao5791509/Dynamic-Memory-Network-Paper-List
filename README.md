@@ -17,13 +17,28 @@ Bordes, Antoine, et al. "Large-scale simple question answering with memory netwo
 
 Tran, Ke, Arianna Bisazza, and Christof Monz. "Recurrent memory networks for language modeling." arXiv preprint arXiv:1601.01272 (2016). [Paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1036.pdf) 
 
+Li, Juzheng, et al. "Textbook question answering under instructor guidance with memory networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Textbook_Question_Answering_CVPR_2018_paper.pdf), [Code](https://github.com/freerailway/igmn) 
+
+
+
+
+
+
 
 ## Applications on Computer Vision: 
 Yang, Tianyu, and Antoni B. Chan. "Learning dynamic memory networks for object tracking." Proceedings of the European Conference on Computer Vision (ECCV). 2018. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyu_Yang_Learning_Dynamic_Memory_ECCV_2018_paper.pdf), [Code](https://github.com/skyoung/MemTrack) 
 
 Liu, Boyu, et al. "Mavot: Memory-augmented video object tracking." arXiv preprint arXiv:1711.09414 (2017). [Paper](https://arxiv.org/pdf/1711.09414), Code
 
-Yuan, Yuan, Dong Wang, and Qi Wang. "Memory-Augmented Temporal Dynamic Learning for Action Recognition." arXiv preprint arXiv:1904.13080 (2019).[Paper](https://arxiv.org/pdf/1904.13080.pdf)
+Yuan, Yuan, Dong Wang, and Qi Wang. "Memory-Augmented Temporal Dynamic Learning for Action Recognition." arXiv preprint arXiv:1904.13080 (2019).[Paper](https://arxiv.org/pdf/1904.13080.pdf) 
+
+Lee, Sangho, et al. "A Memory Network Approach for Story-Based Temporal Summarization of 360° Videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_A_Memory_Network_CVPR_2018_paper.pdf) 
+
+Cai, Qi, et al. "Memory matching networks for one-shot image recognition." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Memory_Matching_Networks_CVPR_2018_paper.pdf) 
+
+
+
+
 
 
 
@@ -40,7 +55,11 @@ Fan, Chenyou, et al. "Heterogeneous Memory Enhanced Multimodal Attention Model f
 
 Xiong, Caiming, Stephen Merity, and Richard Socher. "Dynamic memory networks for visual and textual question answering." International conference on machine learning. 2016. [Paper](http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf), [PyTorch Code](https://github.com/dandelin/Dynamic-memory-networks-plus-Pytorch)
 
+Gao, Jiyang, et al. "Motion-appearance co-memory networks for video question answering." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Motion-Appearance_Co-Memory_Networks_CVPR_2018_paper.pdf) 
 
+Wang, Junbo, et al. "M3: multimodal memory modelling for video captioning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_M3_Multimodal_Memory_CVPR_2018_paper.pdf) 
+
+Su, Zhou, et al. "Learning visual knowledge memory networks for visual question answering." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Visual_Knowledge_CVPR_2018_paper.pdf) 
 
 
 
