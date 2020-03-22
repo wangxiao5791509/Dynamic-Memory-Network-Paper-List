@@ -66,6 +66,9 @@ Wang, Junbo, et al. "M3: multimodal memory modelling for video captioning." Proc
 
 Su, Zhou, et al. "Learning visual knowledge memory networks for visual question answering." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Visual_Knowledge_CVPR_2018_paper.pdf) 
 
+Zhu, Minfeng, Pingbo Pan, Wei Chen, and Yi Yang. "Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthesis." In Proceedings of the IEEE CVPR, pp. 5802-5810. 2019, [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_DM-GAN_Dynamic_Memory_Generative_Adversarial_Networks_for_Text-To-Image_Synthesis_CVPR_2019_paper.pdf)] [[Code](https://github.com/MinfengZhu/DM-GAN)] 
+
+
 
 
 
